@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/multisteploginform/static/css/main.43b0e0db.css",
+    "main.js": "/multisteploginform/static/js/main.935cb360.js",
+    "static/js/453.2e3b03a9.chunk.js": "/multisteploginform/static/js/453.2e3b03a9.chunk.js",
+    "static/media/kari-shea-tOVmshavtoo-unsplash.jpg": "/multisteploginform/static/media/kari-shea-tOVmshavtoo-unsplash.6e7b234d3e655d47eb90.jpg",
+    "static/media/dribble-logo.png": "/multisteploginform/static/media/dribble-logo.5b5bc34ba97f4651b050.png",
+    "static/media/designer (1).svg": "/multisteploginform/static/media/designer (1).4e1d0093857f0affa723a147321c6143.svg",
+    "static/media/interface-control-svgrepo-com.svg": "/multisteploginform/static/media/interface-control-svgrepo-com.a933ca2b265bff1ffd5d718e91a23a33.svg",
+    "static/media/editing.svg": "/multisteploginform/static/media/editing.7606870648b7867e54196f965fe4e035.svg",
+    "static/media/instagram.svg": "/multisteploginform/static/media/instagram.7f4c7a4f2d8d8e54c7be0497679c2263.svg",
+    "static/media/pinterest.svg": "/multisteploginform/static/media/pinterest.5a5863b62a3547b6744a67c372cd7292.svg",
+    "static/media/twitter.svg": "/multisteploginform/static/media/twitter.f23a3d2fa29f45734e63211dbdba03b3.svg",
+    "index.html": "/multisteploginform/index.html",
+    "static/media/square-facebook.svg": "/multisteploginform/static/media/square-facebook.4c5ba51279c23e5b6579702108175334.svg",
+    "main.43b0e0db.css.map": "/multisteploginform/static/css/main.43b0e0db.css.map",
+    "main.935cb360.js.map": "/multisteploginform/static/js/main.935cb360.js.map",
+    "453.2e3b03a9.chunk.js.map": "/multisteploginform/static/js/453.2e3b03a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43b0e0db.css",
+    "static/js/main.935cb360.js"
+  ]
+}
